@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: greenyellow;
+    width: 140w;
+    height: 140vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 13%;
+}
